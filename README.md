@@ -648,9 +648,9 @@ The objective of this repository is to demonstrate the **security methodology, e
 
 ---
 
-# 🙏 Acknowledgement
+#  Acknowledgement
 
-A sincere thank you to **Sir Carim** and the **NetworkWalks Team** for the guidance, practical exercises, and opportunity to gain hands-on penetration-testing experience.
+A sincere thank you to **Waqas Karim (CCIE) ** and the **NetworkWalks Team** for the guidance, practical exercises, and opportunity to gain hands-on penetration-testing experience.
 
 The Week 4 project provided valuable exposure to the complete assessment lifecycle:
 
