@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Engagement Overview
+##  Engagement Overview
 
 This repository documents my Week 4 hands-on penetration-testing project completed as part of the NetworkWalks Cybersecurity Internship.
 
