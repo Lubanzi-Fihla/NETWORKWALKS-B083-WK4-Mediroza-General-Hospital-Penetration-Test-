@@ -302,7 +302,7 @@ M2-03-Report3-Password-Recovered-REDACTED.png
 
 ### 📸 Successful Access
 
-![Report1-Unlocked](./screenshots/M2/M2-03-Report1-Unlocked.png)
+![Report1-Unlocked-Redacted](./screenshots/M2/M2-03-Report1-Unlocked-Redacted.png)
 
 ---
 
@@ -310,7 +310,7 @@ M2-03-Report3-Password-Recovered-REDACTED.png
 
 ### 📸 Successful Access
 
-![Report2-Unlocke](./screenshots/M2/M2-04-Report2-Unlocked.png)
+![Report2-Unlocked-Redacted](./screenshots/M2/M2-04-Report2-Unlocked-Redacted.png)
 
 ---
 
@@ -318,7 +318,7 @@ M2-03-Report3-Password-Recovered-REDACTED.png
 
 ### 📸 Successful Access
 
-![Report3-Unlocked](./screenshots/M2/M2-05-Report3-Unlocked.png)
+![Report3-Unlocked-Redacted](./screenshots/M2/M2-05-Report3-Unlocked-Redacted.png)
 
 ---
 
